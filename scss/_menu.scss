@@ -90,9 +90,12 @@
       .portrait {
         width: 250px;
         height: 250px;
-        background: url('../img/PerfilWeb_opt.jpg');
+        background: url('../img/profile-picCV.png');
+          background-position: center;
+          background-size: cover;
         border-radius: 50%;
         border: solid 3px $secondary-color;
+
       }
     }
   

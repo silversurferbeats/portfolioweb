@@ -69,8 +69,6 @@
   width: 250px;
   height: 250px;
   background: url("../img/profile-picCV.png");
-  background-position: center;
-  background-size: cover;
   border-radius: 50%;
   border: solid 3px #eece1a;
 }
@@ -340,8 +338,6 @@ div.menu-branding.show {
   }
   .menu-branding .portrait {
     background: url("../img/profile-picCV.png");
-    background-position: center;
-    background-size: cover;
     width: 150px;
     height: 150px;
   }
